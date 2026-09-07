@@ -1,5 +1,0 @@
-# Replace example.com below with your real domain once deployed (GitHub Pages or custom domain).
-User-agent: *
-Allow: /
-
-Sitemap: https://example.com/sitemap.xml
